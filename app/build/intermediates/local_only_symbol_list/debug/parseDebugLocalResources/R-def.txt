@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button0
+id button1
+id button2
+id button3
+id button4
+id button5
+id button6
+id button7
+id button8
+id button9
+id buttonAC
+id buttonComma
+id buttonDivide
+id buttonEqual
+id buttonMinus
+id buttonMultiply
+id buttonPercent
+id buttonPlus
+id buttonPlusMinus
+id main
+id main_text
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Calculator
+style CalcButton
+style Theme.Calculator
+xml backup_rules
+xml data_extraction_rules
